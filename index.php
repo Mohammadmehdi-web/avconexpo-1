@@ -714,7 +714,7 @@
                           <div class="">
                             <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                               <div class="thumb img-shine">
-                                 <img src="assets/img/service/serviceCardThumb1_4.jpg" alt="thumb" />
+                                 <img src="assets/img/service/Beverages Industry.png" alt="thumb" />
                               </div>
                               <div class="content mt-3">
                                     <h4>
