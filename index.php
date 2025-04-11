@@ -656,7 +656,7 @@
                           <div class="">
                               <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                                   <div class="thumb img-shine">
-                                      <img src="assets/img/service/serviceCardThumb1_1.jpg" alt="thumb" />
+                                      <img src="assets/img/service/sugar sector.png" alt="thumb" />
                                   </div>
                                   <div class="content mt-3">
                                     <h4>
@@ -676,7 +676,7 @@
                           <div class="">
                             <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                               <div class="thumb img-shine">
-                                 <img src="assets/img/service/serviceCardThumb1_2.jpg" alt="thumb" />
+                                 <img src="assets/img/service/dairy industry.png" alt="thumb" />
                               </div>
                               <div class="content mt-3">
                                     <h4>
@@ -696,7 +696,7 @@
                           <div class="">
                             <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                               <div class="thumb img-shine">
-                                 <img src="assets/img/service/serviceCardThumb1_3.jpg" alt="thumb" />
+                                 <img src="assets/img/service/cement industry.png" alt="thumb" />
                               </div>
                               <div class="content mt-3">
                                     <h4>
@@ -732,7 +732,7 @@
                           <div class="">
                             <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                               <div class="thumb img-shine">
-                                 <img src="assets/img/service/serviceCardThumb1_1.jpg" alt="thumb" />
+                                 <img src="assets/img/service/edible oil sector.php" alt="thumb" />
                               </div>
                               <div class="content mt-3">
                                     <h4>
@@ -750,7 +750,7 @@
                           <div class="">
                             <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                               <div class="thumb img-shine">
-                                 <img src="assets/img/service/serviceCardThumb1_1.jpg" alt="thumb" />
+                                 <img src="assets/img/service/paper and pulp industry.png" alt="thumb" />
                               </div>
                               <div class="content mt-3">
                                     <h4>
@@ -768,7 +768,7 @@
                           <div class="">
                             <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                               <div class="thumb img-shine">
-                                 <img src="assets/img/service/serviceCardThumb1_1.jpg" alt="thumb" />
+                                 <img src="assets/img/service/spackaging industry.png" alt="thumb" />
                               </div>
                               <div class="content mt-3">
                                     <h4>
@@ -822,7 +822,7 @@
                           <div class="">
                             <div class="blog-card style1 wow fadeInUp" data-wow-delay="0.3s">
                               <div class="thumb img-shine">
-                                 <img src="assets/img/service/serviceCardThumb1_1.jpg" alt="thumb" />
+                                 <img src="assets/img/service/Waste and wastewater.png" alt="thumb" />
                               </div>
                               <div class="content mt-3">
                                     <h4>
@@ -849,219 +849,6 @@
         </div>
     </div>
 
-
-    <!-- Service Section S T A R T -->
-    <!--<section class="service-section section-padding section-bg fix">-->
-    <!--    <div class="service-container-wrapper style1">-->
-    <!--        <div class="shape">-->
-    <!--            <img src="assets/img/shape/serviceShape1_1.png" alt="shape" />-->
-    <!--        </div>-->
-    <!--        <div class="container">-->
-    <!--            <div class="section-title maxw-490 text-center mx-auto">-->
-    <!--                <span class="subtitle wow fadeInUp">-->
-    <!--                    <img src="assets/img/icon/subTitleIcon.svg" alt="icon" />Our Sectors-->
-    <!--                </span>-->
-    <!--                <h2 class="wow fadeInUp" data-wow-delay=".3s">-->
-    <!--                 Sectors We Specialize In-->
-    <!--                </h2>-->
-    <!--            </div>-->
-    <!--            <div class="service-wrapper style1">-->
-    <!--                <div class="row g-4">-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.2s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_1.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                     Sugar & Distillery-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    Our expertise helps sugar mills and distilleries achieve higher efficiency,-->
-    <!--                                    reduce waste, and boost profitability while maintaining environmental-->
-    <!--                                    responsibility.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_1"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.4s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_2.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Dairy Industry-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    At AVCONEXPO, we provide end-to-end solutions to enhance efficiency, hygiene,-->
-    <!--                                    and productivity in the Dairy Industry. Our expertise ensures modern,-->
-    <!--                                    sustainable, and profitable dairy operations.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_2"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.7s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_3.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Cement Industry-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    With AVCONEXPO's expertise, cement manufacturers can achieve higher-->
-    <!--                                    productivity, lower environmental impact, and greater profitability.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_3"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.2s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_4.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Beverages Industry-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    At AVCONEXPO, we provide cutting-edge solutions for the Beverages Industry,-->
-    <!--                                    ensuring quality, efficiency, and sustainability in production and distribution.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_1"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.4s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_5.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Edible Oil Industry-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    At AVCONEXPO, we provide end-to-end solutions for the Edible Oil Industry,-->
-    <!--                                    focusing on efficiency, quality, and sustainability in production and supply.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_2"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.7s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_6.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Paper and Pulp Industry-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    At AVCONEXPO, we deliver innovative and sustainable solutions for the Paper and-->
-    <!--                                    Pulp Industry, enhancing efficiency, quality, and environmental responsibility.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_3"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.2s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_4.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Packaging Industry-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    At AVCONEXPO, we deliver advanced solutions for the Packaging Industry,-->
-    <!--                                    enhancing efficiency, sustainability, and innovation in packaging design and-->
-    <!--                                    production.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_1"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.4s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_5.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Utilities & Infrastructure-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    At AVCONEXPO, we focus on developing, optimizing, and modernizing utilities and-->
-    <!--                                    infrastructure, ensuring sustainable growth and efficient resource management-->
-    <!--                                    for long-term success.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_2"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.7s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_6.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    FMCG-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    At AVCONEXPO, we empower FMCG businesses by optimizing production processes,-->
-    <!--                                    streamlining supply chains, and enhancing market competitiveness through-->
-    <!--                                    innovative solutions and strategic consulting.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_3"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-
-    <!--                    <div class="col-xl-4 col-md-6">-->
-    <!--                        <div class="service-card style1 wow fadeInUp" data-tilt data-tilt-max="15"-->
-    <!--                            data-wow-delay="0.7s">-->
-    <!--                            <div class="thumb">-->
-    <!--                                <img src="assets/img/service/serviceCardThumb1_6.jpg" alt="thumb" />-->
-    <!--                            </div>-->
-    <!--                            <div class="content">-->
-    <!--                                <h4>-->
-    <!--                                    Water & Wastewater Treatment-->
-    <!--                                </h4>-->
-    <!--                                <p class="text">-->
-    <!--                                    AVCONEXPO provides comprehensive industrial and municipal water treatment-->
-    <!--                                    solutions, covering the entire value chain. Our expertise includes river-->
-    <!--                                    rejuvenation, advanced water supply systems, sewage treatment, desalination-->
-    <!--                                    plants, and effluent treatment facilities, ensuring sustainable and efficient-->
-    <!--                                    water management.-->
-    <!--                                </p>-->
-    <!--                                <div class="icon"><i class="icon-serviceIcon1_3"></i></div>-->
-    <!--                            </div>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--</section>-->
 
     <!-- Brand Section S T A R T -->
     <div class="brand-section section-padding fix pb-120">
