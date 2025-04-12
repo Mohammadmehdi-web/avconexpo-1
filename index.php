@@ -870,6 +870,7 @@
                                 </div>
                             </div>
                             <div class="swiper-slide">
+                                <head>ftguyhiujoko'l[[[[;dtfuyiguohjp</head>
                                 <div class="brand-logo-box">
                                     <a href="#">
                                         <img class="original" src="assets/img/brand/2.png" alt="Brand Logo">
